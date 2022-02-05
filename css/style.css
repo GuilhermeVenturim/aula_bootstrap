@@ -1,0 +1,31 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #c1c3c4;
+}
+
+.quem-sou{
+    background-color:#d8d8e7;
+    color: rgb(204, 11, 27);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.treino{
+    background-color: rgb(60, 71, 82);
+    color: rgb(108, 78, 240);
+}
+
+.galeria{
+    color: rgb(44, 43, 43);
+}
+
+.bg-footer{
+    background-color: rgb(27, 26, 27);
+    color: whitesmoke;
+}
